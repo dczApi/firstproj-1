@@ -8,7 +8,7 @@ var ioc = {
             fields : {
                 url : "jdbc:mysql://127.0.0.1:3306/nutzbook",
                 username : "root",
-                password : "123456",
+                password : "root",
                 testWhileIdle : true,
                 validationQuery : "select 1" ,
                 maxActive : 100
